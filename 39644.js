@@ -1,0 +1,1 @@
+$(function(){$("div.a1tg3td:contains('»')").remove();$("div.a1tg3td:contains('[Sọt]')").remove();$("div.a1tg3td:contains('[FM]')").remove();$("div.a1tg3td:contains('[Code]')").remove();$("div.a1tg3td:contains('[Share]')").remove();$("div.a1tg3td:contains('[Q&A]')").remove()});

@@ -1,0 +1,1 @@
+$(function(){if(location.pathname==="/profile"){$("td.row1:contains('avatar-dulieu')").parent().remove()};$("img[src$=/.gif], .fmviPro5:contains('avatar-dulieu')").remove()});

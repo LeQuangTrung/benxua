@@ -1,0 +1,1 @@
+$(window).load(function(){rft=$('#RefreshVDS a:eq(0)').attr('href');setInterval(function(){$('#RefreshVDS .ktrf:eq(0)').load('forum #RefreshVDS a:eq(0)',function(){rfs=$('#RefreshVDS a:eq(0)').attr('href');if(rfs!=rft)$('#RefreshVDS_Main').fadeOut(2000).load('forum #RefreshVDS').fadeIn(2000);rft=rfs})},60000)});
